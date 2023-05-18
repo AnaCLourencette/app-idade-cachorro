@@ -13,6 +13,7 @@
 		E26989612A004B1F00938CA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E269895F2A004B1F00938CA1 /* Main.storyboard */; };
 		E26989632A004B2000938CA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E26989622A004B2000938CA1 /* Assets.xcassets */; };
 		E26989662A004B2000938CA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E26989642A004B2000938CA1 /* LaunchScreen.storyboard */; };
+		E269896E2A004CBD00938CA1 /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = E269896D2A004CBD00938CA1 /* cachorro.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E26989622A004B2000938CA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E26989652A004B2000938CA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E26989672A004B2000938CA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E269896D2A004CBD00938CA1 /* cachorro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cachorro.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		E26989582A004B1F00938CA1 /* Idade de cachorro */ = {
 			isa = PBXGroup;
 			children = (
+				E269896D2A004CBD00938CA1 /* cachorro.png */,
 				E26989592A004B1F00938CA1 /* AppDelegate.swift */,
 				E269895B2A004B1F00938CA1 /* SceneDelegate.swift */,
 				E269895D2A004B1F00938CA1 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E269896E2A004CBD00938CA1 /* cachorro.png in Resources */,
 				E26989662A004B2000938CA1 /* LaunchScreen.storyboard in Resources */,
 				E26989632A004B2000938CA1 /* Assets.xcassets in Resources */,
 				E26989612A004B1F00938CA1 /* Main.storyboard in Resources */,
